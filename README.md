@@ -1,5 +1,5 @@
 ### Olá! Eu sou Cauã Nunes 🖐️
-[![Site](https://img.shields.io/website?label=dataconsulting.com&style=for-the-badge&url=https://darkseagreen-dog-564912.hostingersite.com)](https://darkseagreen-dog-564912.hostingersite.com)
+[![Site](https://img.shields.io/website?label=dataconsulting.com&style=for-the-badge&url=https://data-consulting.naepepesquisas.com/)](https://data-consulting.naepepesquisas.com/)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
